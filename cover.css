@@ -103,6 +103,14 @@ body {
 .cover {
   padding: 0 20px;
 }
+.cover img {
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
 .cover .btn-lg {
   padding: 10px 20px;
   font-weight: bold;
